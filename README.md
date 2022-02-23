@@ -17,8 +17,11 @@
 我的业余项目：
 * [字幕组机翻小助手](https://github.com/1c7/Translate-Subtitle-File) (从2019年12月发布初版到现在2022年2月，总收入是 19000 元左右（没有刨去成本的总收入）
 
-联系方式：
-chengzheng.apply@gmail.com
+最近卡在哪里：   
+* SwiftUI 这边要做个 macOS 视频播放器，还要做个 audio waveform。要做一个类似 Final Cut Pro 的 Magnatic Timeline。不知道咋做。     
+
+联系方式：  
+* chengzheng.apply@gmail.com
 
 <!--
 **1c7/1c7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
