@@ -15,6 +15,7 @@
 * 健身（小目标体重150斤 -> 140斤）
 * 出门走走（地铁可达范围内）  
 * 玩过几个月无人机 (DJI Mini 2），后来不怎么玩了。
+* 最近（2022年2月）买了一个 Insta360 One X2 全景相机，挺好玩的。
 
 <!--
 **1c7/1c7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
