@@ -11,7 +11,7 @@
 ## 开源项目
 
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)（61k ⭐️）
-- [计算机速成课 Crash Course 中字](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)（10k ⭐️，B 站 500w+ 播放）
+- [计算机速成课 Crash Course 中字](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)（10k ⭐️，B 站 509w+ 播放）
 
 ## 我做的产品
 
