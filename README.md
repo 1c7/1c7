@@ -1,5 +1,5 @@
 ## 个人介绍
-住在广州南沙，为北京公司远程工作（自 2020 年起）
+住在广州南沙，为北京公司远程工作（自 2020 年起）。GitHub 开源累计 **7.6w+ ⭐️**
 
 <details>
 <summary>我的微信二维码（欢迎加好友随便聊聊）</summary>
@@ -8,9 +8,14 @@
 
 </details>
 
+## 开源项目
+
+- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)（61k ⭐️）
+- [计算机速成课 Crash Course 中字](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)（10k ⭐️，B 站 500w+ 播放）
+
 ## 我做的产品
 
-- [译幕(Zimoo)](https://zimoo.app/)：翻译字幕的工具，可以把 .srt .ass .vtt 这样的字幕拖进去，选一个服务商或者大模型，翻译成目标语言。比如把英语字幕翻译成中英双语字幕（网页端 + 桌面端）
+- [译幕(Zimoo)](https://zimoo.app/)（[GitHub 2.6k ⭐️](https://github.com/1c7/Translate-Subtitle-File)）：翻译字幕的工具，可以把 .srt .ass .vtt 这样的字幕拖进去，选一个服务商或者大模型，翻译成目标语言。比如把英语字幕翻译成中英双语字幕（网页端 + 桌面端）
 
   <details>
   <summary>更多故事</summary>
