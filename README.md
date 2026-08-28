@@ -1,3 +1,25 @@
+<p align="left">
+  <a href="#english"><strong>English</strong></a> | <a href="#chinese"><strong>简体中文</strong></a>
+</p>
+
+---
+
+<a name="english"></a>
+## About Me
+Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** ⭐️ across open-source projects.
+
+### Open Source Highlights
+- [Chinese Independent Developer Projects](https://github.com/1c7/chinese-independent-developer) (`61k ⭐️`): Curated list of indie hacker projects in China.
+- [Crash Course Computer Science (Chinese Subtitles)](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) (`10k ⭐️`, 5.09M+ views on Bilibili).
+
+### Products Built
+- [MaxUsage](https://github.com/1c7/max-usage): Pick which AI coding subscription to use right now to maximize quotas (macOS, `brew install 1c7/tap/max-usage`).
+- [FirstLight](https://github.com/1c7/FirstLight): Track morning bright light from your Mac menu bar to fix circadian rhythm and sleep schedule (macOS).
+- [Zimoo (译幕)](https://zimoo.app/) ([GitHub 2.6k ⭐️](https://github.com/1c7/Translate-Subtitle-File)): Subtitle translation tool supporting LLMs & BYOK (Web & Desktop).
+
+---
+
+<a name="chinese"></a>
 ## 个人介绍
 住在广州南沙，为北京公司远程工作（自 2020 年起）。GitHub 开源累计 **7.6w+ ⭐️**
 
