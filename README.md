@@ -5,7 +5,9 @@
 ---
 
 <a name="english"></a>
-## About Me
+<details>
+<summary><h2>About Me</h2></summary>
+
 Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** ⭐️ across open-source projects.
 
 ### Open Source Highlights
@@ -17,10 +19,14 @@ Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** 
 - [FirstLight](https://github.com/1c7/FirstLight): Track morning bright light from your Mac menu bar to fix circadian rhythm and sleep schedule (macOS).
 - [Zimoo (译幕)](https://zimoo.app/) ([GitHub 2.6k ⭐️](https://github.com/1c7/Translate-Subtitle-File)): Subtitle translation tool supporting LLMs & BYOK (Web & Desktop).
 
+</details>
+
 ---
 
 <a name="chinese"></a>
-## 个人介绍
+<details>
+<summary><h2>个人介绍</h2></summary>
+
 住在广州南沙，为北京公司远程工作（自 2020 年起）。GitHub 开源累计 **7.6w+ ⭐️**
 
 <details>
@@ -72,5 +78,7 @@ Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** 
 - 习惯记录：每天有很多固定习惯，比如吃甘氨酸镁，维生素D3，维生素 B族，米诺地尔，非那雄胺，容易忘记
 - 睡醒见光（Android 版）：显示当前光照强度是多少 lux（用安卓手机前置摄像头区域的光线传感器）
 - 今天干嘛：把无规划，容易拖延，乱七八糟很随心情的一天，变得更规律一些，加强出门频率
+
+</details>
 
 </details>
