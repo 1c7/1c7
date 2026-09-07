@@ -1,12 +1,9 @@
-<p align="left">
-  <a href="#english"><strong>English</strong></a> | <a href="#chinese"><strong>简体中文</strong></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-
-<a name="english"></a>
 <details>
-<summary><h2>About Me</h2></summary>
+<summary><b>About Me</b></summary>
 
 Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** ⭐️ across open-source projects.
 
@@ -21,11 +18,11 @@ Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** 
 
 </details>
 
----
+</td>
+<td width="50%" valign="top">
 
-<a name="chinese"></a>
 <details>
-<summary><h2>个人介绍</h2></summary>
+<summary><b>个人介绍</b></summary>
 
 住在广州南沙，为北京公司远程工作（自 2020 年起）。GitHub 开源累计 **7.6w+ ⭐️**
 
@@ -36,12 +33,12 @@ Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** 
 
 </details>
 
-## 开源项目
+### 开源项目
 
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)（61k ⭐️）
 - [计算机速成课 Crash Course 中字](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)（10k ⭐️，B 站 509w+ 播放）
 
-## 我做的产品
+### 我做的产品
 
 - [译幕(Zimoo)](https://zimoo.app/)（[GitHub 2.6k ⭐️](https://github.com/1c7/Translate-Subtitle-File)）：翻译字幕的工具，可以把 .srt .ass .vtt 这样的字幕拖进去，选一个服务商或者大模型，翻译成目标语言。比如把英语字幕翻译成中英双语字幕（网页端 + 桌面端）
 
@@ -71,7 +68,7 @@ Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** 
   </details>
 
 <details>
-<summary><h3>未发布的产品（开发中/体验中）</h3></summary>
+<summary><b>未发布的产品（开发中/体验中）</b></summary>
 
 - 饮食记录：拍照记录每天吃了几餐，每餐的照片，很方便就能导出到电脑上
 - 体重记录：每天记录一次体重，看周趋势
@@ -82,3 +79,7 @@ Based in Guangzhou, remote software developer since 2020. **76k+ GitHub Stars** 
 </details>
 
 </details>
+
+</td>
+</tr>
+</table>
